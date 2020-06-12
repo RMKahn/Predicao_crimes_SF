@@ -12,7 +12,7 @@ Professores:
 
 Objetivo:
 
-A segurança da população é um dever fundamental de qualquer serviço de proteção em qualquer parte do mundo, ao analisar o histórico de crimes de São Francisco, o grupo pretende criar um algoritmo por meio de bases de treinamento e do método Random Forest Classifier, que ajude a polícia a controlar melhor e a informar a população sobre quais riscos são mais propensos em cada região em determinados horários.
+A segurança da população é um dever fundamental de qualquer serviço de proteção em qualquer parte do mundo, ao analisar o histórico de crimes de São Francisco, o grupo pretende criar um algoritmo por meio de bases de treinamento e do método Random Forest Classifier, que ajude a polícia a controlar melhor e a informar a população sobre quais riscos são mais propensos em cada região em determinados horários, levando em conta certas variáveis.
 
 Metodologia:
 
